@@ -9,4 +9,6 @@
 <dd>NextJS AzureB2C</dd>
 <dt>ionicLab (2020)</dt>
 <dd>Ionic Angular AzureB2C</dd>
+<dt>Xamarin.Forms.RootCheck (2020)</dt>
+<dd>xf nuget</dd>
 </dl>
